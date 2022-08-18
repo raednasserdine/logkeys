@@ -13,7 +13,7 @@ Prerequisites
 You need some tools to build the code from source:
 
     # On Debian-based distros
-    apt install build-essential autotools-dev autoconf kbd
+    sudo apt install build-essential autotools-dev autoconf kbd
 
     # On openSUSE
     zypper install automake gcc-c++ kbd
